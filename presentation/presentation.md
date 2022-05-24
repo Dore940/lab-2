@@ -1,15 +1,15 @@
 ---
 title: Лабораторная работа №2
-author: Vasily Khuditsky
+author: Доре Стевенсон Эдгар
 institute: RUDN University, Moscow, Russian Federation
-date: 19 February, 2022 Moscow, Russian Federation
+date: 19 мая, 2022 Moscow, Russian Federation
 theme: metropolis
 ---
 
 
 # Лабораторная работа №2
-## Василий Худицкий
-## РУДН, 19 Февраля 2022 Москва, Россия
+##  Доре Стевенсон Эдгар
+## РУДН, 19 мая 2022 Москва, Россия
 
 ---
 
